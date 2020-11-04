@@ -1,6 +1,6 @@
 package edu;
 
-public class Mathematical_sequence {
+public class Mathematical_sequences {
     public static void main(String[] args) {
         System.out.println(factorialOfNumber(5));
         System.out.println();
